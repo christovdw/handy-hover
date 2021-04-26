@@ -1,0 +1,20 @@
+[
+  {
+    "itemId": 552,
+    "itemName": "GHOSTSPEAK_AMULET",
+    "foundIn": "THE_RESTLESS_GHOST",
+    "usedIn": [
+      "ANIMAL_MAGNETISM", "NATURE_SPIRIT", "GHOSTS_AHOY", "MAKING_HISTORY", "CREATURE_OF_FENKENSTRAIN", "FAIRYTALE_I__GROWING_PAINS", "CABIN_FEVER"
+    ],
+    "neededForQuest": true
+  },
+  {
+    "itemId": 2871,
+    "itemName": "OGRE_BELLOWS",
+    "foundIn": "BIG_CHOMPY_BIRD_HUNTING",
+    "usedIn": [
+      "RECIPE_FOR_DISASTER", "MOURNINGS_END_PART_I"
+    ],
+    "neededForQuest": true
+  }
+]
